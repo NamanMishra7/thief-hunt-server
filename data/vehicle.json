@@ -1,0 +1,23 @@
+[
+  {
+    "uid": "7fd9de55-7f0c-4277-80ea-1f5583a6a98a",
+    "document": "vehicle",
+    "name": "EV Bike",
+    "range": 60,
+    "count": 2
+  },
+  {
+    "uid": "775612d4-f4b4-4539-910f-7c334e903583",
+    "document": "vehicle",
+    "name": "EV Car",
+    "range": 100,
+    "count": 1
+  },
+  {
+    "uid": "6c7f852d-d6de-4c7c-a132-88ddb001e3cd",
+    "document": "vehicle",
+    "name": "EV SUV",
+    "range": 120,
+    "count": 1
+  }
+]
